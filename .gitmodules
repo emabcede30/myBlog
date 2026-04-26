@@ -1,0 +1,8 @@
+[submodule "theHedgeEngineerBlog/public2"]
+	path = theHedgeEngineerBlog/public2
+	url = https://github.com/emabcede30/theHedgeEngineer.git
+	branch = main
+[submodule "theHedgeEngineerBlog/public"]
+	path = theHedgeEngineerBlog/public
+	url = https://github.com/emabcede30/theHedgeEngineer.git
+	branch = main
